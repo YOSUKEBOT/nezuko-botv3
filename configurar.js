@@ -6,7 +6,7 @@ const chalk = require("chalk")
 //Nunca apague os " " 
 //Caso Contrário, O Bot Não Irá Ligar 
 //Caso Tenha Interesse em Ter o Bot descriptografado 
-//Chama no WhatsApp: wa.me/5521964523665
+//Chama no WhatsApp: https://wa.me/555195237143
 //Caso Tenha Ideias de Comandos, Chama Ai
 //Caso Tenha Dúvidas, Chama Ai
 //┗⧐┅┅┅⃟🌺┅┅⧏ ❀ ⧐┅┅🌺⃟┅┅┅⧏┛
@@ -32,7 +32,7 @@ nezukoemoji3 = "🌹"
 
 //=====================================//
 //[ definições dono ]
-global.numerodonoa = ["NUMERO-DONO"] //Coloque seu número dentro das aspas para definir
+global.numerodonoa = "5551995237143"
 
 global.lolhuman = "RelzzAPIs"
 global.banChats = false
@@ -43,21 +43,21 @@ global.gcrevoke = []
 //[ anterações nome dono entre outros ]
 global.packname = "© C᥆ρᥡrιght bᥡ Nᥱzᥙk᥆ b᥆t"
 
-global.packname2 = `https://youtube.com/@MarcioScheyot` //seu canal do YouTube 
+global.packname2 = `https://youtube.com/@nicegamer23?si=kcPkDloM4WeVXTlT`
 
-global.author = "NICK-DONO"//seu nome aqui
+global.author = "⚡𝑵𝑰𝑪𝑬 𝑮𝑨𝑴𝑬𝑹𝑺⚡"
 
-global.sessionName = "qr-code"//conexão do do bot
+global.sessionName = "CONECTAR COM NÚMERO DE TELEFONE"
 
-global.NomeDoBot = "𝐍𝐄𝐙𝐔𝐊𝐎-𝐁𝐎𝐓™𝐕3"//nome do seu bot aqui
+global.NomeDoBot = "⚡𝒀𝑶𝑺𝑼𝑲𝑬 𝑩𝑶𝑻 𝑽3⚡"
 
-global.linkgrupss = "https://chat.whatsapp.com/DTsrSH5CVF66Xvn9Ow61Yn"// link do seu grupo do whatsapp 
+global.linkgrupss = "https://chat.whatsapp.com/IyYUywXZmA39X9JQ5IoWoy"
 
-global.prefix = "/"//alteração do prefixo do bot
+global.prefix = "/" "."
 
-global.NickDono = "NICK-DONO"//nick dono
+global.NickDono = ⚡𝑵𝑰𝑪𝑬 𝑮𝑨𝑴𝑬𝑹𝑺⚡
 
-global.websitex = "https://youtube.com/@MarcioScheyot"
+global.websitex = "https://youtube.com/@nicegamer23?si=kcPkDloM4WeVXTlT"
 
 //=====================================//
 // [ mensagens ]
